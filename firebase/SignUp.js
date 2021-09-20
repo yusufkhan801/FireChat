@@ -1,3 +1,5 @@
 function signup() {
-    window.alert("hello")
+    
+    var newUser=document.getElementById(EmailInput).value;
+    window.alert(newUser);
 }
