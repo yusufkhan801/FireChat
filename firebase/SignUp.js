@@ -1,3 +1,3 @@
-function login() {
+function signup() {
     window.alert("hello")
 }
