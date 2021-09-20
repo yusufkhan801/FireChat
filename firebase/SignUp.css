@@ -4,6 +4,7 @@ body{
 #MainDiv{
     background-color: black;
     color: white;
+    margin-top: 150px;
     height: 120px;
     width: 120px;
     border-radius: 10px;
