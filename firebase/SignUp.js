@@ -1,5 +1,5 @@
-function signup() {
+function test() {
     
     var newUser=document.getElementById(EmailInput).value;
-    console.log(newUser);
+   window.alert('helllo');
 }
