@@ -1,5 +1,5 @@
 function test() {
     
-    var newUser=document.getElementById(EmailInput).value;
+    var newUser= document.getElementById('EmailInput').value;
    window.alert('helllo');
 }
